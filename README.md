@@ -1,1 +1,1 @@
-## SPOILER WARNING for anyone planning try pythonchallenge.com
+## SPOILER WARNING for anyone planning to try pythonchallenge.com
